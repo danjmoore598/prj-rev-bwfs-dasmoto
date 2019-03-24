@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#brushes {
+  background-color: MediumSpringGreen;
+}
+
+#footer-bg {
+  background-image: url("../images/pattern.jpeg");
+  filter: brightness(80%);
+  margin-top: 40px;
+}
+
+.footer-text {
+  color: white;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+#frames {
+  background-color: LightCoral;
+}
+
+h1 {
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url("../images/pattern.jpeg");
+}
+
+h2 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+}
+
+#paint {
+  background-color: SkyBlue;
+  }
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
